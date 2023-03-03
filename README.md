@@ -1,3 +1,5 @@
+Won 1st Place Overall at DeltaHacksIX.
+
 CodeWarriors is a gamified education platform that teaches coding topics to beginners.
 
 
